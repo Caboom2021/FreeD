@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "name": "喝茶影视(Web)",
+      "pic": "http://www.aaqqs.com/template/pc/images/logo.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "http://aaqqs.com/",
+      "webOpen": true,
+      "click": true
+    }
+    {
       "name": "94神马(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
@@ -676,5 +687,6 @@
       "webOpen": true,
       "click": true
     }
+   
   ]
 }
